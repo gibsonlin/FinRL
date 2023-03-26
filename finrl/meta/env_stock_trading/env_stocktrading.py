@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 from gymnasium import spaces
 # from gym import spaces
-from gym.utils import seeding
+from gymnasium.utils import seeding
 from stable_baselines3.common.vec_env import DummyVecEnv
 
 matplotlib.use("Agg")
